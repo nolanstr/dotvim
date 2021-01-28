@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/nolanstrauss/Documents/RESEARCH/init_explanation/classes'
+let g:netrw_dirhist_3='/Users/nolanstrauss/Documents/RESEARCH/FBF_HP_study'
+let g:netrw_dirhist_2='/Users/nolanstrauss/Documents/FALL2020/FEA/hw2'
+let g:netrw_dirhist_1='/Users/nolanstrauss/Documents/FALL2020/PythonBC'
